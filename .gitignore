@@ -16,7 +16,10 @@
 
 !README.md
 !LICENSE
-!*.tmpl
+!*.js
+!*.css
+!*.ico
+!*.png
 
 # !Makefile
 
